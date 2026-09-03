@@ -42,6 +42,28 @@
 
 
   ----
+
+## 🎓 Education
+
+<div align="center">
+
+| 🎓 Education | 🏫 Institution | 📅 Duration | 📊 Grade | 📚 Stream |
+|:---|:---|:---:|:---:|:---|
+| **Bachelor of Technology** | **Invertis University** | 2024 – 2028 | ⭐ **A+ (Till Now)** | Computer Science |
+| **Class XII** | **Unique Model Inter College** | 2023 | 🏆 **80%** | PCM |
+| **Class X** | **Unique Model Inter College** | 2021 | 🏆 **91%** | PCM |
+
+</div>
+
+<br>
+
+<div align="center">
+
+🎯 **Currently pursuing Computer Science with a focus on Software Development, Backend Engineering & AI/ML.**
+
+</div>
+
+---
   
 ## 🛠️ Skills
 
