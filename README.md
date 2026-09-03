@@ -175,11 +175,11 @@ An ML-based project focused on predicting **life insurance claim outcomes** usin
 
 **🔗 Project Links:**
 
-<a href="[YOUR-REPO-LINK](https://github.com/ayush-gangwar-09/Insurance-Claim-Prediction-)">
+<a href="https://github.com/ayush-gangwar-09/Insurance-Claim-Prediction-">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="[YOUR-LIVE-LINK](https://insurance-claim-prediction.netlify.app/)">
+<a href="https://insurance-claim-prediction.netlify.app/">
   <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
@@ -199,11 +199,11 @@ A smart indoor energy optimization system designed to improve **energy efficienc
 
 **🔗 Project Links:**
 
-<a href="[YOUR-REPO-LINK](https://github.com/ayush-gangwar-09/Smart-Indoor-Energy-Optomization-)">
+<a href="https://github.com/ayush-gangwar-09/Smart-Indoor-Energy-Optomization-">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="[YOUR-LIVE-LINK](https://wokwi.com/projects/456027893800274945)">
+<a href="https://wokwi.com/projects/456027893800274945">
   <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
