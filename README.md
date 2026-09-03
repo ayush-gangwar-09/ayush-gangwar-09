@@ -242,7 +242,7 @@ A smart indoor energy optimization system designed to improve **energy efficienc
 
 </div>
 
-<br>
+
 
 - 🧠 **Master Advanced DSA**  
   Strengthen problem-solving, algorithms & competitive thinking.
@@ -267,7 +267,6 @@ A smart indoor energy optimization system designed to improve **energy efficienc
 
 ---
 
----
 
 ## 🧠 Developer Philosophy
 
