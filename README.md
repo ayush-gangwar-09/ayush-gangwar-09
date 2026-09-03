@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Aspiring+AI+%26+ML+Engineer+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
 </a>
 
-<br>
+
 
 <!-- Dynamic Badges -->
 <p align="center">
@@ -20,7 +20,7 @@
 
 </div>
 
-<br>
+
 
 ---
 
@@ -341,9 +341,6 @@ Learn continuously, experiment often, and improve every day.
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<br>
-
-
 
 <sub>💻 Full Stack Development • 🤖 AI/ML • 🚀 Open to Collaboration</sub>
 
@@ -359,7 +356,7 @@ Learn continuously, experiment often, and improve every day.
   width="100%"
 />
 
-<br>
+
 
 ### ⭐ Thanks for visiting my profile!
 
