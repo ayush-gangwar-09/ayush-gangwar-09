@@ -176,12 +176,10 @@ An ML-based project focused on predicting **life insurance claim outcomes** usin
 **🔗 Project Links:**
 
 <a href="https://github.com/ayush-gangwar-09/Insurance-Claim-Prediction-">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;&nbsp;
 <a href="https://insurance-claim-prediction.netlify.app/">
-  <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
 -----
 
@@ -195,17 +193,15 @@ A smart indoor energy optimization system designed to improve **energy efficienc
 
 • `IoT` • `Energy Optimization` • `Smart Systems`
 
-• `Automation` • `Data Analysis`
+• `Automation` • `Data Analysis` • `C++`
 
 **🔗 Project Links:**
 
 <a href="https://github.com/ayush-gangwar-09/Smart-Indoor-Energy-Optomization-">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;&nbsp;
 <a href="https://wokwi.com/projects/456027893800274945">
-  <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"  /></a>
 
 ---
 
@@ -332,14 +328,10 @@ Learn continuously, experiment often, and improve every day.
 <br>
 
 <a href="https://github.com/ayush-gangwar-09">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 &nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/ayush-kumar-288993314">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
 <sub>💻 Full Stack Development • 🤖 AI/ML • 🚀 Open to Collaboration</sub>
