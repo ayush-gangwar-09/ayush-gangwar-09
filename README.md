@@ -141,9 +141,9 @@
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,aws,git,github" />
 </p>
 
-• `Docker` • `Kubernetes` • `Apache Kafka`
+• `Docker` • `Kubernetes` • `Kafka`
 
-• `AWS (Basics)` • `Git` • `GitHub`
+• `AWS` • `Git` • `GitHub`
 
 ----
 
