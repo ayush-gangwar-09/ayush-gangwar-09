@@ -5,9 +5,8 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Aspiring+AI+%26+ML+Engineer+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Engineering+Student+%F0%9F%8E%93;Software +Developer+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
-
 
 
 <!-- Dynamic Badges -->
@@ -26,19 +25,15 @@
 
 ## ⚡ About Me
 
-  🎓 Engineering Student passionate about **Software Development & Artificial Intelligence**
+  🎓 Engineering Student passionate about **Software Development**
                                                                               
-  💻 Full Stack Developer working with **Java, Python & modern web technologies**
+  💻 Full Stack Developer working with **Java, Python & Modern Web Technologies**
                                                                               
-  ⚙️ Backend Developer exploring **Spring Boot, Microservices & RESTful APIs**  
+  ⚙️ Backend Developer exploring **Node.js, Express.js & RESTful APIs**  
                                                                               
-  🧠 Strengthening problem-solving skills through **Advanced DSA & OOP**          
+  🧠 Strengthening problem-solving skills through **Advanced DSA**          
                                                                               
-  🏗️ Learning **System Design & Distributed Systems** for scalable applications  
-                                                                             
-  🤖 Diving deeper into **AI, Machine Learning & Advanced Deep Learning**        
-                                                                              
-  🚀 Aspiring AI/ML Engineer focused on building real-world intelligent apps 
+  🏗️ Learning **System Design & Distributed Systems** for scalable applications
 
 
   ----
@@ -79,11 +74,11 @@
 
 ### 2️⃣ Core CSE & DSA
 
-• `Operating Systems` • `Computer Networks` • `DBMS` • `OOP`
+• `Operating Systems` • `Computer Networks` • `Database Management` 
 
-• `DSA` • `Dynamic Programming` • `Distributed Systems`
+• `OOP` • `DSA` • `Dynamic Programming` • `Distributed Systems`
 
-• `Digital Logic` • `Automata Theory`
+• `Digital Logic` • `Automata Theory` • `Compiler Design`
 
 ----
 
@@ -95,53 +90,36 @@
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" />
 </p>
 
-• `HTML` • `CSS` • `Tailwind CSS` • `Bootstrap` • `ReactJS`
+• `HTML` • `CSS` • `JavaScript` • `Tailwind CSS` • `Bootstrap` • `ReactJS`
 
 
 #### ⚙️ ii) Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate" />
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,restful apis" />
 </p>
 
-• `Spring Boot` • `Spring Framework` • `JDBC`
-
-• `Hibernate` • `JPA` • `Spring MVC` • `RESTful API`
+• `Node.js` • `Express.js` • `RESTful APIs` • `JWT Authentication`
 
 
 #### 🗄️ iii) Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-• `MySQL` • `PostgreSQL` • `MongoDB`
+• `MySQL` • `SQL` • `MongoDB`
 
 ----
 
 
-### 🤖 4️⃣ AI/ML & Data Science
+### ☁️ 5️⃣ Deployment & Cloud    
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,aws,git,github" />
 </p>
 
-• `Power BI` • `SQL` • `Excel`
-
-• `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
-
-• `TensorFlow` • `PyTorch`
-
----
-
-
-### ☁️ 5️⃣ Deployment & Infrastructure      
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,aws,git,github" />
-</p>
-
-• `Docker` • `Kubernetes` • `Kafka`
+• `Docker` • `Kubernetes` • `Vercel` • `Netlify` 
 
 • `AWS` • `Git` • `GitHub`
 
@@ -150,10 +128,10 @@
 ### 💻 6️⃣ Platforms & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,jupyter" />
+<img src="https://skillicons.dev/icons?i=vscode,idea" />
 </p>
 
-• `VS Code` • `IntelliJ IDEA` • `Jupyter Notebook`
+• `VS Code` • `IntelliJ IDEA` 
 
 ---
 
@@ -260,25 +238,17 @@ A smart indoor energy optimization system designed to improve **energy efficienc
 
 </div>
 
-
-
 - 🧠 **Master Advanced DSA**  
   Strengthen problem-solving, algorithms & competitive thinking.
 
 - ⚙️ **Advanced Backend Development**  
-  Build robust applications with Spring Boot, REST APIs & Microservices.
+  Build robust applications with Node.js, Express.js & REST APIs.
 
 - 🏗️ **Level Up System Design**  
   Learn scalable architecture, design patterns & high-level system thinking.
 
 - 🌐 **Deep Dive into Distributed Systems**  
   Understand scalability, reliability, concurrency & distributed architecture.
-
-- 🤖 **Master Advanced AI**  
-  Explore modern AI concepts and intelligent application development.
-
-- 🧬 **Go Deeper into Deep Learning**  
-  Strengthen neural networks, model development & practical applications.
 
 - 🚀 **Build Impactful Real-World Projects**  
   Turn ideas into practical, scalable & meaningful solutions.
@@ -334,7 +304,7 @@ Learn continuously, experiment often, and improve every day.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
-<sub>💻 Full Stack Development • 🤖 AI/ML • 🚀 Open to Collaboration</sub>
+<sub>💻 Software Developer • 🚀 Open to Collaboration</sub>
 
 </div>
 
