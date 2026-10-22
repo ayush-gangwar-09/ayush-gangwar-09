@@ -5,15 +5,15 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Engineering+Student+%F0%9F%8E%93;Software +Developer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Engineering+Student+%F0%9F%8E%93;Software+Developer+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 
 <!-- Dynamic Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayush-gangwar-09&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ayush-gangwar-09&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/ayush-gangwar-09">
-    <img src="https://img.shields.io/github/followers/ayush-gangwar-09?style=for-the-badge&logo=github&logoColor=white&color=7000FF&label=FOLLOWERS" />
+    <img src="https://img.shields.io/github/followers/ayush-gangwar-09?style=for-the-badge&logo=github&logoColor=white&color=7000FF&label=FOLLOWERS" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -44,9 +44,9 @@
 
 | 🎓 Education | 🏫 Institution | 📅 Duration | 📊 Grade | 📚 Stream |
 |:---|:---|:---:|:---:|:---|
-| **Bachelor of Technology** | **Invertis University** | 2024 – 2028 | ⭐ **A+ (Till Now)** | Computer Science |
-| **Class XII** | **Unique Model Inter College** | 2023 | 🏆 **80%** | PCM |
-| **Class X** | **Unique Model Inter College** | 2021 | 🏆 **91%** | PCM |
+| **Bachelor of Technology** | **Invertis University** | 2024 – 2028 | ⭐ **A+ (Till Now)** | Computer Science Engineering |
+| **Class XII** | **Unique Model Inter College** | 2023 | 🏆 **80%** | Physics, Chemistry & Maths |
+| **Class X** | **Unique Model Inter College** | 2021 | 🏆 **91%** | Physics, Chemistry & Maths |
 
 </div>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-🎯 **Currently pursuing Computer Science with a focus on Software Development, Backend Engineering & AI/ML.**
+🎯 **Currently pursuing Computer Science with a focus on Software Development & Backend Engineering.**
 
 </div>
 
@@ -72,13 +72,13 @@
 
 ----
 
-### 2️⃣ Core CSE & DSA
+### 2️⃣ Core Computer Science Subjects
 
-• `Operating Systems` • `Computer Networks` • `Database Management` 
+• `Operating Systems` • `Computer Networks` • `Database Management`  • `Software Engineering`
 
-• `OOP` • `DSA` • `Dynamic Programming` • `Distributed Systems`
+• `OOP` • `DSA` • `Dynamic Programming` • `Distributed Systems`  • `System Design`
 
-• `Digital Logic` • `Automata Theory` • `Compiler Design`
+• `Digital Logic`  • `Computer Organization & Architecture` • `Automata Theory` • `Compiler Design`
 
 ----
 
@@ -96,7 +96,7 @@
 #### ⚙️ ii) Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,restful apis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js" />
 </p>
 
 • `Node.js` • `Express.js` • `RESTful APIs` • `JWT Authentication`
@@ -116,12 +116,12 @@
 ### ☁️ 5️⃣ Deployment & Cloud    
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,aws,git,github" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,git,github" />
 </p>
 
-• `Docker` • `Kubernetes` • `Vercel` • `Netlify` 
+• `Vercel` • `Netlify` 
 
-• `AWS` • `Git` • `GitHub`
+• `Git` • `GitHub`
 
 ----
 
