@@ -46,7 +46,7 @@
 
 | 🎓 Education | 🏫 Institution | 📅 Duration | 📊 Grade | 📚 Stream |
 |:---|:---|:---:|:---:|:---|
-| **Bachelor of Technology** | **Invertis University** | 2024 – 2028 | ⭐ **A+ (Till Now)** | Computer Science Engineering |
+| **Bachelor of Technology** | **Invertis University** | 2024 - 2028 | ⭐ **A+ (Till Now)** | Computer Science Engineering |
 | **Class XII** | **Unique Model Inter College** | 2022 - 2023 | 🏆 **80%** | Physics, Chemistry & Maths |
 | **Class X** | **Unique Model Inter College** | 2020 - 2021 | 🏆 **91%** | Physics, Chemistry & Maths |
 
