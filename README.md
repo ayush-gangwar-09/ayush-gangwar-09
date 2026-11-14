@@ -107,7 +107,7 @@
 #### 🗄️ iii) Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 • `MySQL` • `SQL` • `MongoDB`
@@ -234,14 +234,6 @@ A smart indoor energy optimization system designed to improve **energy efficienc
 ---
 
 ## 🎯 2026 Goals
-
-<div align="center">
-
- **🚀 Learn deeply. Build consistently. Think at scale.**
-
-</div>
-
-
 
 - 🧠 **Master Advanced DSA**  
   Strengthen problem-solving, algorithms & competitive thinking.
