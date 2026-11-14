@@ -190,13 +190,13 @@ A smart indoor energy optimization system designed to improve **energy efficienc
 
 <img
   src="./profile/stats.svg"
-  width="48%"
+  width="70%"
   alt="GitHub Stats"
 />
 
 <img
   src="./profile/top-langs.svg"
-  width="48%"
+  width="70%"
   alt="Top Languages"
 />
 
